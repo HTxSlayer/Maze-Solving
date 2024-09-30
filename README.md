@@ -83,6 +83,8 @@ You can run the project directly from your IDE (e.g., Eclipse, IntelliJ IDEA) or
 This project does not use any external libraries and relies on core Java (`javax.swing`, `java.awt`) for GUI rendering.
 
 SCREENSHOT
+
+
 ![Screenshot 2023-11-08 092201](https://github.com/user-attachments/assets/2bbf2a41-19e4-4584-a009-67158ecd9781)
 
 
